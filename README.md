@@ -1,4 +1,8 @@
-# xoxo
+# xoxo Game
+
+Just new team member training project for fun :)
+
+-------
 
 ## Project setup
 ```
